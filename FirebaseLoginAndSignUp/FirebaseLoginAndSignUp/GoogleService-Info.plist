@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>205476592537-h451ctarfacnftph8siudju3uvo7um19.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.205476592537-h451ctarfacnftph8siudju3uvo7um19</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCxY_f_r_1XsbGeR7_NqZTDmQIyBIX-dIo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>205476592537</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Ing.-Rau-l-Adolfo-Torres-Vargas.FirebaseLoginAndSignUp</string>
+	<key>PROJECT_ID</key>
+	<string>loginandsignup-fceab</string>
+	<key>STORAGE_BUCKET</key>
+	<string>loginandsignup-fceab.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:205476592537:ios:bba5d86a764cdf7473b108</string>
+	<key>DATABASE_URL</key>
+	<string>https://loginandsignup-fceab.firebaseio.com</string>
+</dict>
+</plist>
